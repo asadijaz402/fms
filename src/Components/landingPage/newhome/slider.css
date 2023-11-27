@@ -1,0 +1,24 @@
+.slick-center {
+  outline: none;
+  width: 378px;
+  position: relative;
+  z-index: 1;
+  height: 100%;
+}
+
+.slick-track {
+  width: 6048px;
+  /* height: 28rem; */
+  padding: 5rem 0rem 5rem 0rem;
+  opacity: 1;
+  transform: translate3d(-1134px, 0px, 0px);
+}
+
+@media screen and (max-width: 480px) {
+  .slick-track {
+    /* width: 6048px; */
+    /* height: 28rem; */
+    opacity: 1;
+    transform: translate3d(-1134px, 0px, 0px);
+  }
+}

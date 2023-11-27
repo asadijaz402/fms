@@ -1,0 +1,16 @@
+Imrprovements: 
+Successful spelling
+Move arrow towards the right of "Invoice" 
+MOT and Road Tax twice 
+Deleting vehicle from de-fleeted list isn't different from deleting it from the live list
+History spelling in Precheck
+Sorting not working in any section
+We Deliver We Collect could be improved in bookings
+Vehicles already added in a booking still coming up in available vehicles list
+No prompt after removing vehicles from a booking
+no prompt when additional vehicles are added to the booking
+Cant add passport number, bank account number, insurance number, driving licence and business registration number for the customer
+Dates for booking: When 1 day is selected, the calender selects the next day but when custom days are added calender selects same day
+Custom number of days should be mentioned next to the box
+Very long waiting time when adding a customer
+Ask about vehicle trends graph
